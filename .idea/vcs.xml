@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<project version="4">
-  <component name="VcsDirectoryMappings">
-    <mapping directory="$PROJECT_DIR$/CustomCornerTextView/CustomCornerTextView" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/MultiLanguage" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/ShopHomepageDemo" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/ShopHomepageDemo/homepage_recyclerview" vcs="Git" />
-  </component>
-</project>
